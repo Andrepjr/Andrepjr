@@ -5,12 +5,8 @@
 - 📫 Email: andre.pradojr98@gmail.com
 - 🤓 Cursando Engenharia de Software na FIAP
 
-
 ![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrepjr&theme=default&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrepjr&layout=donut-vertical)](https://github.com/Andrepjr/github-readme-stats)
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrepjr&layout=compact)
 
 # 
 
